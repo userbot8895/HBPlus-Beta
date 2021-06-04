@@ -1,3 +1,3 @@
-# HyperU++ Beta
+# HUB++ Beta
 
-Public beta of [HyperU++](https://github.com/userbot8895/HyperU-Plus)
+Public beta of [HUB++](https://github.com/userbot8895/HUB-Plus)
